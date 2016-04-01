@@ -1,0 +1,30 @@
+{
+  "name": "isElementInViewport",
+  "version": "0.0.1",
+  "description": "detects if an element is in the viewport",
+  "main": "lib/index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/StevenIseki/isElementInViewport.git"
+  },
+  "author": "Steven Iseki <stevenisekimartin@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "babel-core": "^6.0.20",
+    "babel-eslint": "^4.1.5",
+    "babel-loader": "^6.0.1",
+    "babel-preset-es2015": "^6.0.15",
+    "babel-preset-react": "^6.0.15",
+    "babel-preset-stage-0": "^6.0.15"
+  },
+  "scripts": {
+    "test": "ava test/*.js"
+  },
+  "keywords": [
+    "isElementInViewport",
+    "dom element in view",
+    "element in view",
+    "elementInView",
+    "is in view"
+  ]
+}
