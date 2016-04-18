@@ -1,7 +1,6 @@
 # isElementInViewport
 
-[![npm version](https://badge.fury.io/js/react-search.svg)](https://badge.fury.io/js/react-search)
-[![js-standard-style](https://img.shields.io/badge/code%20style-standard-brightgreen.svg?style=flat)](https://github.com/feross/standard)
+[![npm version](https://badge.fury.io/js/isElementInViewport.svg)](https://badge.fury.io/js/isElementInViewport)
 
 ## Install
 
